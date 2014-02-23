@@ -1,4 +1,5 @@
 # Basic Contact Manager
+Assignment part of Coursework CS 6360
 
 ## Introduction
 Create a screen that lets you add, change, and delete contact.
