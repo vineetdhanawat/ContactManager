@@ -25,3 +25,7 @@ Table Details
 	Email_Address(email_id,contact_id,type)
 	Phone_Number(phone_number,type,contact_id)
 	Schedule(schedule_id,type,schedule_date,contact_id,description,date_added)
+
+## License
+
+MIT: http://vineetdhanawat.mit-license.org/
